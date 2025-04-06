@@ -3,8 +3,28 @@ message: "If you use this code, please cite our paper."
 authors:
   - family-names: Cole
     given-names: Trey
-title: "Enhanced topological superconductivity in spatially modulated planar Josephson junctions'"
+title: "Enhanced topological superconductivity in spatially modulated planar Josephson junctions"
 doi: "10.1103/PhysRevB.104.155428"
 date-released: 2021-10-25 
 version: v1.0
 url: https://github.com/treycole/modulated-JJ
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Paudel"
+    given-names: "Purna"
+  - family-names: "Cole"
+    given-names: "Trey"
+    orcid: 0000-0002-6810-4186
+  - family-names: "Woods"
+    given-names: "Benjamin"
+  - family-names: "Stanescu"
+    given-names: "Tudor"
+  doi: "10.1103/PhysRevB.104.155428"
+  journal: "Physical Review B"
+  month: 10
+  year: 2021
+  page: 155428
+  title: "Enhanced topological superconductivity in spatially modulated planar Josephson junctions"
+
+
