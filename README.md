@@ -12,7 +12,7 @@ The code for generating the results can be found in the submodule [majoranaJJ](/
 
 If you use this code in your research, please cite our paper
 
-**"Reduced Wannier Representation for Topological Bands"**  
+**"Enhanced topological superconductivity in spatially modulated planar Josephson junction"**  
 *Purna Paudel, Trey Cole, Benjamin Woods, Tudor Stanescu*  
 Phys. Rev. B **104**, 155428(2021)  
 [DOI: 10.1103/PhysRevB.104.155428](https://doi.org/10.1103/PhysRevB.104.155428)
