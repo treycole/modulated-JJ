@@ -6,7 +6,8 @@ The official published version is available at the [APS website](https://journal
 
 The `LaTeX` source code and a pdf of the accepted manuscript version of our PRB paper can be found in the [paper](/paper) folder. 
 
-The code for generating the results can be found in the submodule [majoranaJJ](/majoranaJJ). 
+The code for generating the results can be found in the `majoranaJJ` submodule. 
+
 
 ## 📚 Citation
 
