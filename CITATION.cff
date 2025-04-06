@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite our paper."
+authors:
+  - family-names: Cole
+    given-names: Trey
+title: "Enhanced topological superconductivity in spatially modulated planar Josephson junctions'"
+doi: "10.1103/PhysRevB.104.155428"
+date-released: 2021-10-25 
+version: v1.0
+url: https://github.com/treycole/modulated-JJ
