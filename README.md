@@ -2,12 +2,14 @@
 
 Code for the paper "Enhanced topological superconductivity in spatially modulated planar Josephson junctions" by Purna Paudel, Trey Cole, Benjamin Woods, and Tudor Stanescu. 
 
+## 📜 Paper
+
 The official published version is available at the [APS website](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.155428).
 
 The `LaTeX` source code and a pdf of the accepted manuscript version of our PRB paper can be found in the [paper](/paper) folder. 
 
+## 💻 Results
 The code for generating the results can be found in the `majoranaJJ` submodule. 
-
 
 ## 📚 Citation
 
@@ -19,4 +21,24 @@ Phys. Rev. B **104**, 155428(2021)
 [DOI: 10.1103/PhysRevB.104.155428](https://doi.org/10.1103/PhysRevB.104.155428)
 
 You can also [download the citation file here](./CITATION.cff) or get the `bibtex` from 'cite this repository' under 'About'.
+
+The `bibtex` can also be copied here
+
+```
+@article{PhysRevB.104.155428,
+  title = {Enhanced topological superconductivity in spatially modulated planar Josephson junctions},
+  author = {Paudel, Purna P. and Cole, Trey and Woods, Benjamin D. and Stanescu, Tudor D.},
+  journal = {Phys. Rev. B},
+  volume = {104},
+  issue = {15},
+  pages = {155428},
+  numpages = {16},
+  year = {2021},
+  month = {Oct},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevB.104.155428},
+  url = {https://link.aps.org/doi/10.1103/PhysRevB.104.155428}
+}
+```
+
 
