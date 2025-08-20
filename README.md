@@ -4,7 +4,7 @@ Code for the paper "Enhanced topological superconductivity in spatially modulate
 
 ## 📜 Paper
 
-The official published version is available at the [APS website](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.155428).
+This paper has been published in Physical Review B and is available on the APS website [![Journal](https://img.shields.io/badge/PhysRevB-10.1103/PhysRevB.111.205139-blue)](https://doi.org/10.1103/PhysRevB.104.155428)
 
 The `LaTeX` source code and a pdf of the accepted manuscript version of our PRB paper can be found in the [paper](/paper) folder. 
 
